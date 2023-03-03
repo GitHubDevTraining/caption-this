@@ -27,5 +27,4 @@ fi
 
 git submodule update --init
 
-
-echo "==> App is now ready to go."
+echo "==> App is now ready to go. New Changes from feature 01"
