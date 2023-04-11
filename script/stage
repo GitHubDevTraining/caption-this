@@ -40,3 +40,5 @@ git push staging master:gh-pages --force && git remote rm staging
 # Celebrate and open the staging site
 printf "\n${grn}# Success!${end}\n"
 open https://pages.ghe.io/${account}/${repo}/
+
+//Test change 2
