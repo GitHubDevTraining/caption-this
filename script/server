@@ -7,5 +7,3 @@ git submodule update --init
 
 # Run the Jekyll site locally
 bundle exec jekyll serve
-
-#Test changes
